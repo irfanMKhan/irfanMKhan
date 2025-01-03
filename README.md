@@ -26,7 +26,7 @@
 
 <p style="text-align: left;">
     <a href="https://www.linkedin.com/in/irfan-mkhan/" target="blank">
-        <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/81/inkedIn_icon.svg" alt="irfan" height="41" width="41"/>
+        <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="irfan" height="41" width="41"/>
     </a>
 </p>
 
