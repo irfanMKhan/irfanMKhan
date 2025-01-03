@@ -1,14 +1,14 @@
-<h2 style="text-align: center; margin: 2rem;">
+<h2 align=center style=" margin: 2rem;">
     Hello World !👋, I'm
 </h2>
 
 <hr>
 
-<h1 style="text-align: center; margin-top: -1rem;">
+<h1 align=center style="margin-top: -1rem;">
     Muhammad Irfan Khan
 </h1>
 
-<h6 style="text-align: center; margin-top: -1rem; margin-bottom: 2rem; font-style: oblique;">
+<h6 align=center style="margin-top: -1rem; margin-bottom: 2rem; font-style: oblique;">
     A FullStack Developer
 </h6>
 
@@ -25,7 +25,9 @@
 <h3 style="text-align: left;">Connect with me:</h3>
 
 <p style="text-align: left;">
-<a href="https://www.linkedin.com/in/irfan-mkhan/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="irfan" height="41" width="41"/></a>
+    <a href="https://www.linkedin.com/in/irfan-mkhan/" target="blank">
+        <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/81/inkedIn_icon.svg" alt="irfan" height="41" width="41"/>
+    </a>
 </p>
 
 <!---
