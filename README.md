@@ -12,7 +12,7 @@
     A FullStack Developer
 </h6>
 
-- 🔭 I’m currently Looking for Job in the **USA** can work as a **W2-employee**
+- 🔭 I’m currently Looking for Job in the **USA**, can work as a **W2-employee**
 
 - 🌱 I’m currently learning **AWS Cloud**
 
