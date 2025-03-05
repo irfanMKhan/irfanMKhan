@@ -2,8 +2,6 @@
     Hello World !👋, I'm
 </h2>
 
-<hr>
-
 <h1 align=center style="margin-top: -1rem;">
     Muhammad Irfan Khan
 </h1>
