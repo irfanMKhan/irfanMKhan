@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Looking for Job in the **USA**, can work as a **W2-employee**
 
-- 🌱 I’m currently learning ** . **
+- 🌱 I’m currently learning 
 
 - 💬 Ask me about **Java, Angular, ReactJS**
 
