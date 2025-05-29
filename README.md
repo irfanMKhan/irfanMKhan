@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently Looking for Job in the **USA**, can work as a **W2-employee**
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Java, ReactJS**
+- 💬 Ask me about **Java, Angular, ReactJS**
 
 - 📫 How to reach me **khan.mdirfan.engineer@gmail.com**
 
